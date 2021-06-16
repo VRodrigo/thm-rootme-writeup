@@ -1,0 +1,7 @@
+/.htaccess            (Status: 403) [Size: 277]
+/.htpasswd            (Status: 403) [Size: 277]
+/css                  (Status: 301) [Size: 310] [--> http://10.10.83.167/css/]
+/js                   (Status: 301) [Size: 309] [--> http://10.10.83.167/js/]
+/panel                (Status: 301) [Size: 312] [--> http://10.10.83.167/panel/]
+/server-status        (Status: 403) [Size: 277]
+/uploads              (Status: 301) [Size: 314] [--> http://10.10.83.167/uploads/]
